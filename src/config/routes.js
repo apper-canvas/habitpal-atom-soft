@@ -5,8 +5,8 @@ export const routes = {
     id: 'home',
     label: 'Home',
     path: '/',
-    icon: 'Home',
-component: HomePage
+icon: 'Home',
+    component: HomePage
   }
 };
 
