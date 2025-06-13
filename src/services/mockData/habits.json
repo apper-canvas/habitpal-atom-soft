@@ -1,0 +1,92 @@
+[
+  {
+    "id": "drink-water",
+    "name": "Drink 8 glasses of water",
+    "category": "wellness",
+    "icon": "Droplets"
+  },
+  {
+    "id": "meditate",
+    "name": "Meditate for 10 minutes",
+    "category": "mindfulness",
+    "icon": "Brain"
+  },
+  {
+    "id": "exercise",
+    "name": "Exercise for 30 minutes",
+    "category": "fitness",
+    "icon": "Dumbbell"
+  },
+  {
+    "id": "read-book",
+    "name": "Read for 20 minutes",
+    "category": "learning",
+    "icon": "BookOpen"
+  },
+  {
+    "id": "walk-steps",
+    "name": "Take 10,000 steps",
+    "category": "fitness",
+    "icon": "Footprints"
+  },
+  {
+    "id": "eat-vegetables",
+    "name": "Eat 5 servings of vegetables",
+    "category": "wellness",
+    "icon": "Salad"
+  },
+  {
+    "id": "journal",
+    "name": "Write in journal",
+    "category": "mindfulness",
+    "icon": "PenTool"
+  },
+  {
+    "id": "sleep-early",
+    "name": "Sleep before 10 PM",
+    "category": "wellness",
+    "icon": "Moon"
+  },
+  {
+    "id": "stretch",
+    "name": "Do stretching exercises",
+    "category": "fitness",
+    "icon": "Activity"
+  },
+  {
+    "id": "no-social-media",
+    "name": "Avoid social media for 2 hours",
+    "category": "mindfulness",
+    "icon": "Smartphone"
+  },
+  {
+    "id": "practice-gratitude",
+    "name": "Write 3 things I'm grateful for",
+    "category": "mindfulness",
+    "icon": "Heart"
+  },
+  {
+    "id": "learn-skill",
+    "name": "Practice a new skill",
+    "category": "learning",
+    "icon": "Target"
+  },
+  {
+    "id": "call-family",
+    "name": "Call family or friends",
+    "category": "social",
+    "icon": "Phone"
+  },
+  {
+    "id": "clean-space",
+    "name": "Tidy up living space",
+    "category": "productivity",
+    "icon": "Home"
+  },
+  {
+    "id": "take-vitamins",
+    "name": "Take daily vitamins",
+    "category": "wellness",
+    "icon": "Pill"
+  }
+]
